@@ -1,0 +1,60 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  h1{
+    padding-left: 580px;
+    margin-top: 20px;
+  }
+  
+  .registered-data {
+    margin-top: 30px;
+    padding-left: 60px;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    grid-row: auto;
+    background-color: tan;
+    width: 550px;
+  }
+  
+  .registered-item {
+    margin-bottom: 10px;
+    margin-left: 45px;
+    margin-top: 0px;
+  }
+  .registration-form{
+    border: 1px solid black;
+    box-shadow: black;
+    width: 550px;
+    background-color: tan;
+  }
